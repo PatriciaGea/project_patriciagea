@@ -31,7 +31,7 @@ header {
   justify-content: space-between;
   align-items: center;   
   padding: 3vw 5vw;
-  background-image: url('/images/bg_tattoo_01.jpg');
+  background-image: url('https://raw.githubusercontent.com/PatriciaGea/project_patriciagea/main/images/bg_tattoo_01.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
